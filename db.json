@@ -35,6 +35,12 @@
       "title": "Svetle",
       "completed": false,
       "id": "1686050244544"
+    },
+    {
+      "text": "Some text about javascript",
+      "title": "JavaScript",
+      "completed": false,
+      "id": "1686058281884"
     }
   ]
 }
