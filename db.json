@@ -7,22 +7,10 @@
       "text": "First tasks ok ok"
     },
     {
-      "id": "2",
-      "completed": false,
-      "title": "test22",
-      "text": "First tasks ok o gsdgsdgs gsdgsdgsg sk"
-    },
-    {
       "id": "3",
       "completed": true,
       "title": "test33",
       "text": "First tasks ok okdgssdg gsgsdg sgsg"
-    },
-    {
-      "title": "123",
-      "text": "affafaff",
-      "completed": false,
-      "id": "4"
     },
     {
       "title": "React",
@@ -37,28 +25,16 @@
       "id": "6"
     },
     {
-      "text": "qfqfqff",
-      "title": "effaf",
-      "completed": true,
-      "id": "7"
+      "text": "Some text ok",
+      "title": "Angular",
+      "completed": false,
+      "id": "1686043357911"
     },
     {
-      "text": "qqq",
-      "title": "test",
+      "text": "Ok ok lol",
+      "title": "Svetle",
       "completed": false,
-      "id": "8"
-    },
-    {
-      "text": "2",
-      "title": "1",
-      "completed": false,
-      "id": "9"
-    },
-    {
-      "text": "2",
-      "title": "1",
-      "completed": false,
-      "id": "10"
+      "id": "1686050244544"
     }
   ]
 }
