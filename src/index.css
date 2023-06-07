@@ -25,3 +25,7 @@ ul {
 .selected {
   background-color: aqua;
 }
+
+.ReactModal__Overlay {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
